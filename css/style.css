@@ -31,7 +31,6 @@ body{
         color:#1454da;
     }
     #if58{
-        opacity:0.66;
+        opacity:1;
         margin:250px 100px 0 100px;
-        display:none;
-    }
+        }
