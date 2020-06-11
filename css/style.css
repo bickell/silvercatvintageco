@@ -42,14 +42,15 @@ body{
     font-weight:500;
     display:block;
     text-align:center;
-    color:#1454da;
-    text-shadow: 2px 2px silver;
+    color:silver;
+    text-shadow: 2px 2px #5d70a1;
+
     }
 #welcome-msg-text{
     font-family:Trebuchet MS, Helvetica, sans-serif;
     font-size:26px;
     text-align:center;
-    color:#1454da;
+    color:#c2c4c9;
     }
 
 #site-link{
