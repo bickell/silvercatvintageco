@@ -51,6 +51,13 @@ body{
     text-align:center;
     color:#1454da;
     }
+
+#site-link{
+    font-family: fantasy, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: silver;
+}    
 /* #if58{
     opacity:1;
     margin:250px 100px 0 100px;
